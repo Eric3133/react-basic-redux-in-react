@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// 导入根store
 import store from './store';
 import { Provider } from 'react-redux';
 
